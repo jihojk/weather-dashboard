@@ -7,7 +7,9 @@ SO THAT I can plan a trip accordingly.
 
 ## App Description
 Uses AJAX to hook into OpenWeather API to retrive weather data for cities in JSON format.
+
 APP runs in browers and features dynamically updated HTML and CSS powered by jQuery.
+
 The following infromation is displayed:
 * City
 * Date
