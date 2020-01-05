@@ -16,6 +16,7 @@ The following infromation is displayed:
 * Wind Speed
 * UV Index
 * Visual represetation of weather conditions with Icons
+
 A search history so users can access past searches.
 A 5 day forecast that includes:
 * Date
