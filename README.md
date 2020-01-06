@@ -1,5 +1,8 @@
 # Weather Dashboard
 
+## Deployed Link
+https://jihojk.github.io/weather-dashboard/.
+
 ## User Story
 AS a traveler
 I WANT to see the weather outlook for multiple cities
