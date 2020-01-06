@@ -28,4 +28,4 @@ A 5 day forecast that includes:
 
 ## App Screenshot
 
-![Application Screenshot] (/assets/weather-dashboard.png)
+![Application Screenshot](/assets/weather-dashboard.png)
