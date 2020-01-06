@@ -27,3 +27,5 @@ A 5 day forecast that includes:
 * Humidity
 
 ## App Screenshot
+
+![Application Screenshot] (/assets/weather-dashboard.png)
